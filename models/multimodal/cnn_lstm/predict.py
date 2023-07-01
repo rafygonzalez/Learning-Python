@@ -15,7 +15,7 @@ ap.add_argument("--caption", required=True,
                 help="path to input image")
 args = vars(ap.parse_args())
 
-text_vocab_size = 1000  # Set this to the size of your vocabulary
+text_vocab_size = 30522  # Set this to the size of your vocabulary
 classes = "../../datasets/cnn_lstm_classes.json"
 with open(classes) as file:
     classes = json.load(file)
