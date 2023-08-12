@@ -1,0 +1,1 @@
+python VOC_TO_CSV.py ../labelme/data_dataset_voc/Annotations

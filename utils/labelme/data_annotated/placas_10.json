@@ -1,0 +1,44 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "placa",
+      "points": [
+        [
+          378.67857142857144,
+          340.0357142857143
+        ],
+        [
+          750.1071428571429,
+          513.25
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "moto",
+      "points": [
+        [
+          266.1785714285715,
+          6.10714285714289
+        ],
+        [
+          810.8214285714286,
+          823.9642857142858
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "placas_10.jpeg",
+  "imageData": null,
+  "imageHeight": 864,
+  "imageWidth": 1152
+}

@@ -1,0 +1,180 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "carro",
+      "points": [
+        [
+          220.76923076923075,
+          603.3846153846154
+        ],
+        [
+          0.7692307692307692,
+          52.61538461538464
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "carro",
+      "points": [
+        [
+          153.07692307692307,
+          91.0769230769231
+        ],
+        [
+          422.3076923076923,
+          354.1538461538462
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "moto",
+      "points": [
+        [
+          677.6923076923077,
+          49.53846153846155
+        ],
+        [
+          748.4615384615385,
+          260.3076923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "placa",
+      "points": [
+        [
+          693.0769230769231,
+          175.69230769230768
+        ],
+        [
+          730.0,
+          195.69230769230768
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "persona",
+      "points": [
+        [
+          391.53846153846155,
+          1.846153846153868
+        ],
+        [
+          631.5384615384615,
+          460.30769230769226
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "persona",
+      "points": [
+        [
+          680.7692307692307,
+          66.46153846153845
+        ],
+        [
+          746.9230769230769,
+          169.53846153846155
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "carro",
+      "points": [
+        [
+          745.3846153846154,
+          40.30769230769232
+        ],
+        [
+          997.6923076923077,
+          440.30769230769226
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "carro",
+      "points": [
+        [
+          806.9230769230769,
+          112.61538461538464
+        ],
+        [
+          997.6923076923077,
+          677.2307692307692
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "placa",
+      "points": [
+        [
+          451.53846153846155,
+          509.53846153846155
+        ],
+        [
+          574.6153846153846,
+          572.6153846153846
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "placa",
+      "points": [
+        [
+          230.0,
+          266.46153846153845
+        ],
+        [
+          300.7692307692308,
+          301.8461538461538
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "placa_01.jpeg",
+  "imageData": null,
+  "imageHeight": 716,
+  "imageWidth": 1000
+}

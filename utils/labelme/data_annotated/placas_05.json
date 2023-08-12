@@ -1,0 +1,95 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "placa",
+      "points": [
+        [
+          40.1470588235294,
+          44.16666666666667
+        ],
+        [
+          89.16666666666664,
+          71.61764705882352
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "placa",
+      "points": [
+        [
+          213.18627450980392,
+          83.87254901960783
+        ],
+        [
+          284.75490196078425,
+          112.79411764705883
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "moto",
+      "points": [
+        [
+          198.48039215686273,
+          0.049019607843135304
+        ],
+        [
+          292.59803921568624,
+          175.04901960784315
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "moto",
+      "points": [
+        [
+          21.51960784313724,
+          1.029411764705884
+        ],
+        [
+          180.34313725490196,
+          136.81372549019608
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "persona",
+      "points": [
+        [
+          278.8725490196078,
+          2.5
+        ],
+        [
+          319.0,
+          131.69081779053104
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "placas_05.jpeg",
+  "imageData": null,
+  "imageHeight": 180,
+  "imageWidth": 320
+}
